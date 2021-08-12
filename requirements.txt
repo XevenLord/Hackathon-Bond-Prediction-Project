@@ -1,0 +1,6 @@
+pandas==1.2.4
+numpy==1.20.3
+streamlit==0.81.1
+matplotlib==3.4.2
+Pillow==8.3.1
+scikit_learn==0.24.2

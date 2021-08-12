@@ -1,0 +1,30 @@
+.highlight {
+    border-radius: 0.4rem;
+    padding: 7px;
+    text-align: left;
+  }
+  .bold {
+    padding-left: 1rem;
+    font-weight: 700;
+  }
+  .blue {
+    background-color: lightcoral;
+  }
+  .red {
+    background-color: lightgreen;
+  }
+  .gray{
+    background-color: whitesmoke;
+  }
+  .font1{
+    font-family:Sans-serif;
+    color:MediumSeaGreen;
+    font-size: 22px;
+    font-weight: 150;
+  }
+  .font2{
+    font-family:Sans-serif;
+    color: mediumslateblue;
+    font-size: 22px;
+    font-weight: 150;
+  }
